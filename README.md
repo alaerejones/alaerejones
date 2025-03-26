@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Welcome to My GitHub</h1>
 
-<h3 align="center">Software Engineering | Frontend | Security Software Development</h3>
+<h3 align="center">Software Engineering | Frontend Web Developer | Security Software Development</h3>
 
 ---
 
 ### 👩🏽‍💻 About Me
 
-- 🔷 Building secure, scalable, and user-friendly applications  
+- 🔷 Building secure, scalable, and user-friendly web applications  
 - 🔷 Specializing in **React.js & Frontend Web Development**  
 - 🔷 Passionate about guiding people in tech & solving real-world problems with my Software Development skills and technical knowledge  
 
