@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Welcome to My GitHub</h1>
 
-<h3 align="center">Software Engineering | Frontend Web Developer | Security Software Development</h3>
+<h3 align="center">Software Engineering | Frontend Web Development | Security Software Development</h3>
 
 ---
 
